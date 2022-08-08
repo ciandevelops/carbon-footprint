@@ -21,7 +21,7 @@ const Main = () => {
         </p>
         <div className="py-4 sm:py-8">
           <button className="px-8 py-2 bg-button-color rounded-md sm:rounded-none text-button-text">
-            Get Started
+            <a href="#tabs">Get Started</a>
           </button>
         </div>
       </div>
